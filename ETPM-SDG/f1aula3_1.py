@@ -1,0 +1,1 @@
+print('\033[1;31;47m Viva Turma\033[m')

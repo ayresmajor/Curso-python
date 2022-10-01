@@ -1,6 +1,6 @@
-casa = float(input('Quanto custa a casa? '))
-salario = float(input('Quanto é o seu salário? '))
-ano = int(input('Em quantos  anos deseja pagar a casa? ' ))
+casa = float(input('Quanto custa a casa?: '))
+salario = float(input('Quanto é o seu salário?: '))
+ano = int(input('Em quantos  anos deseja pagar a casa?: ' ))
 meses = ano * 12
 prest = casa / meses
 if prest > salario * 0.3:

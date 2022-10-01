@@ -1,6 +1,7 @@
 nome = str(input('Qual é o seu nome '))
 if nome == 'Ayres':
-    print('Que nome sexy')
+    print(f'Olá chefe')
 else:
-    print('Bom nome!')
+    print('Olá usuário')
 print('Bom dia {}!'.format(nome))
+    

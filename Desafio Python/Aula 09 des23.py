@@ -7,4 +7,4 @@ print('Analizando o número...')
 print('Unidade: {}'.format(u))
 print('Dezena: {}'.format(d))
 print('Centena: {}'.format(c))
-print('Milhar: {}'.format(m))
+print('Milhar: {}'.format(m))\

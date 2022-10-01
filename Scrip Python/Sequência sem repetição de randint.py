@@ -7,11 +7,9 @@ num = []
 
 for c in range(6):
     n = randint(1, 5)
-    print ('===================')
-    print("n: ", n )
     if c > 0:
       lista.append(n)
-      print("lista: ", lista)
+      print("lista : ", lista)
     if len(lista) >= 2:
         lista2 = lista[0: c -1]
         print("lista2: ", lista2)
